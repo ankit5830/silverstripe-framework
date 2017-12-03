@@ -65,7 +65,7 @@ Then activate the extension.
 
 
 ```yml
-Silverstripe\SiteConfig\SiteConfig:
+SilverStripe\Security\Member:
   extensions:
     - CustomSiteConfig
 ```
